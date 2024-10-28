@@ -4,6 +4,7 @@ import numpy as np
 
 class AlgebraApp:
     def __init__(self, master):
+
         self.master = master
         master.title("Ứng Dụng Hỗ Trợ Học Đại Số")
 
